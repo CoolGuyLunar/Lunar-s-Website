@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ffdae0;
+  class="" color #5f4868
+  body {
+  background-image:url("<img src=""/>");
+  }  
+}
+  .page3 {
+  background-color: #90d2d8;
+  }
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item {
+    padding: 20px;
+    text-align: center;
+}
+.start { color: #2a856a} 
